@@ -1,0 +1,1 @@
+代码文件下NeteaseCloudMusicApi文件夹是爬取数据模块，使用开源的接口来获取网易云音乐的热门歌单， recommendation-master文件夹是推荐系统，包含数据处理、模型预训练、歌单推荐功能的实现，可通过执行model文件夹下的knn_baseline.py得到推荐歌单和歌曲。
